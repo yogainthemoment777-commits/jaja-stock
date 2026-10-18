@@ -1,1 +1,2 @@
 # jaja-stock
+git push
